@@ -21,4 +21,4 @@ deploy:
   target-branch: gh-pages
   commit_message: "deploy semana 8 proyecto avok2 "
   on:
-    branch: dev-wr
+    branch: master
